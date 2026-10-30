@@ -203,4 +203,4 @@ print(df[cols].head())
 
 ## Result
 
-The experiment was executed successfully. All 15 tasks — dataset understanding, cleaning, group-by analysis, filtering, cross-tabulation, aggregation, and data transformations — were completed. The dataset is now clean and enriched with new features (`year`, `win_margin`, `win_type`), revealing that Mumbai Indians are the most successful team, fielding first is the dominant toss choice, and M. Chinnaswamy Stadium, Eden Gardens, and Wankhede Stadium are the top IPL venues.
+The experiment was executed successfully. Dataset understanding, cleaning, group-by analysis, filtering, cross-tabulation, aggregation, and data transformations — were completed. The dataset is now clean and enriched with new features (`year`, `win_margin`, `win_type`), revealing that Mumbai Indians are the most successful team, fielding first is the dominant toss choice, and M. Chinnaswamy Stadium, Eden Gardens, and Wankhede Stadium are the top IPL venues.
